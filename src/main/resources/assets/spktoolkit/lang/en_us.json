@@ -1,0 +1,10 @@
+{
+  "key.category.spktoolkit": "Singleplayer Toolkit",
+  "key.spktoolkit.menu": "Open Singleplayer Toolkit",
+  "key.spktoolkit.flight": "Toggle toolkit flight",
+  "key.spktoolkit.fullbright": "Toggle fullbright",
+  "key.spktoolkit.free_camera": "Toggle spectator/free camera",
+  "key.spktoolkit.invulnerability": "Toggle invulnerability",
+  "key.categories.spktoolkit.category": "Singleplayer Toolkit",
+  "key.categories.spktoolkit": "Singleplayer Toolkit"
+}

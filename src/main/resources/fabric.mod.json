@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "spktoolkit",
+  "version": "${version}",
+  "name": "Singleplayer Toolkit",
+  "description": "A reversible, singleplayer-only toolkit for Minecraft Java Edition 1.21.11.",
+  "authors": ["SPK Toolkit"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.spktoolkit.ToolkitMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "fabric-api": ">=0.141.6+1.21.11"
+  }
+}
